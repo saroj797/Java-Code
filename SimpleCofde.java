@@ -10,6 +10,7 @@ public class SimpleCofde {
         int sum = num3 + num2;
         
         System.out.println( sum);
+        
     }
     
 }
